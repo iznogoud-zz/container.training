@@ -240,7 +240,7 @@ class: self-paced
 
 .exercise[
 
-- Go to http://www.play-with-docker.com/
+- Go to http://labs.play-with-k8s.com/
 
 - Log in
 
